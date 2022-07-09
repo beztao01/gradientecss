@@ -1,0 +1,7 @@
+html{
+    min-height: 100%;
+    background: 
+        radial-gradient(transparent,gray);
+        url("lorempixel.com/500/500");
+        background-size: cover;
+}
